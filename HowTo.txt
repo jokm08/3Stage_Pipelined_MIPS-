@@ -1,0 +1,4 @@
+%How To%
+
+Provided make file was not working. So new make file was created. Run the makefile using make command.
+addiu has been used as a sample in imem.txt. This file can be modified to add new instructions. 
